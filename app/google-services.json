@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259734126687",
+    "project_id": "rememberme-dd12c",
+    "storage_bucket": "rememberme-dd12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259734126687:android:90342cad8955f840801bea",
+        "android_client_info": {
+          "package_name": "odogwudev.rememberme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259734126687-pmjg0jepmrqloqk96bonv85j413pkife.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-Y1r4qGNYi0XS0a6aoU1-ci069oPHMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259734126687-pmjg0jepmrqloqk96bonv85j413pkife.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
